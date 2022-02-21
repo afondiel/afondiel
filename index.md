@@ -1,8 +1,6 @@
-# Afonso DIELA
+## Afonso DIELA
 
-## SW Engineer & Data enthusiast 
-
-Resume 
+#### SW Engineer & Data enthusiast 
 
 ```markdown
 * Software Engineer
