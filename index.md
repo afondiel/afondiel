@@ -1,4 +1,6 @@
-## Afonso DIELA - SW Engineer & Data enthusiast 
+# Afonso DIELA
+
+## SW Engineer & Data enthusiast 
 
 Resume 
 
