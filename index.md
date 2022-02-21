@@ -13,10 +13,6 @@ Resume
 * AgriTech
 ```
 
-### Projects
-
-On going ...
-
 ### Contact
 
 [Me](https://github.com/afondiel)
