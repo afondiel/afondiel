@@ -1,5 +1,11 @@
 #### **Hello World! I'm Afonso Diela** 
 
+🖥️ I am an Edge AI/ML Software Engineer focusing on Computer Vision Real-world applications.<br>
+📚 Interests:  AI, Robotics, and Smart Mobitlity.<br>
+🌱 I’m currently learning: Rust and CUDA & Parallel Computing.<br>
+🚀 Let's Connect: [Linkedin](https://www.linkedin.com/in/afonso-diela/) 
+
+
 “Science can amuse and fascinate us all, but it is engineering that changes the world.” ~ Isaac Asimov
 
 <!--
