@@ -1,8 +1,8 @@
 #### **Hello World! I'm Afonso Diela** 
 
-🖥️ I am an Edge AI/ML Software Engineer focusing on Computer Vision Real-World Applications.<br>
-📚 Interests: AI, Robotics, Smart Mobility, Cultural-AI, Motorsports, Ultrarunner⚡.<br>
-🌱 I’m currently learning: Rust and CUDA Parallel Computing.<br>
+🖥️ An Edge AI/ML Engineer specializing in real-world computer vision solutions.<br>
+📚 Interests: Autonomous Systems (Cars, Robotics, UAVs), Motorsports, Cultural-AI, Ultrarunner⚡.<br>
+🌱 Currently learning: Rust and CUDA Parallel Computing.<br>
 🚀 Let's Connect: [Linkedin](https://www.linkedin.com/in/afonso-diela/) 
 
 
