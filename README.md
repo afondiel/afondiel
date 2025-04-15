@@ -1,10 +1,9 @@
 #### **Hello World!** 🤖
 
-🖥️ I'm **Afonso Diela**, an Edge AI Engineer specializing in real-world computer vision solutions.<br>
+🖥️ I'm **Afonso Diela**, an Edge AI Engineer specializing in optimizing and deploying computer vision solutions for real-world applications.<br>
 📚 Interests: Autonomous Systems (Cars, Robotics, UAVs), Motorsports, Cultural-AI, Ultrarunner⚡.<br>
 🌱 Currently learning: Rust and Parallel Computing (OpenCL, CUDA).<br>
 🚀 Let's Connect: [Linkedin](https://www.linkedin.com/in/afonso-diela/) 
-
 
 **“Science can amuse and fascinate us all, but it is engineering that changes the world.” ~ Isaac Asimov**
 
