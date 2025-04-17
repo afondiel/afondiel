@@ -1,4 +1,4 @@
-#### *Hello World!*, **I'm Afonso Diela** 🤖
+#### Hello World!, **I'm Afonso Diela** 🤖
 
 🖥️ Edge AI Engineer specializing in optimizing and deploying computer vision solutions for real-world applications.<br>
 📚 Interests: Autonomous Systems (Cars, Robotics, UAVs), Motorsports, Cultural-AI, Ultrarunner⚡.<br>
