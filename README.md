@@ -5,7 +5,7 @@
     src="https://github.com/diesimo-ai/diesimo-lab/raw/main/resources/images/cover.png" 
     alt="Edge AI" 
     width="512" 
-    style="max-width: 100%; height: auto; cursor: zoom-in;" 
+    style="max-width: 100%; height: auto;" 
   />
 </p>
 
