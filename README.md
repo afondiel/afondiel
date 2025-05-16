@@ -2,7 +2,7 @@
 
 <p style="text-align: center;">
   <img 
-    src="https://github.com/diesimo-ai/diesimo-lab/raw/main/resources/images/cover.png" 
+    src="https://github.com/diesimo-ai/diesimo-lab/raw/main/resources/images/cover.jpeg" 
     alt="Edge AI" 
     width="512" 
     style="max-width: 100%; height: auto;" 
