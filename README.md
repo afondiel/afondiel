@@ -9,7 +9,7 @@
   />
 </p>
 
-🖥️ I'm **Afonso Diela** - Edge AI Engineer<br>
+🖥️ I'm **Afonso Diela**, an Edge AI Engineer<br>
 🔭 [Working on](https://github.com/diesimo-ai/diesimo-lab): AI Models optimization and deployment on resource-constrained devices for real-world applications.<br>
 📚 Interests: AI Efficiency, Hardware-aware Optimization, MLC, Kernels, Runtimes, Cultural-AI, Ultrarunner⚡.<br>
 🌱 Currently learning: Rust, CUDA and OpenCL<br>
