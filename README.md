@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Afonso 🤖 | Edge AI Engineer ⚙️🚀
+### Hello World, I'm Afonso 👋 | Edge AI Engineer 🤖
 
 <p style="text-align: center;">
   <img 
@@ -9,12 +9,17 @@
   />
 </p>
 
-🔭 [Working on](https://github.com/diesimo-ai/diesimo-lab): AI Models optimization and deployment on resource-constrained devices for real-world applications.<br>
-📚 Interests: AI Efficiency, Hardware-aware Optimization, MLC, Kernels, Runtimes, Cultural-AI, Ultrarunner⚡.<br>
-🌱 Currently learning: Rust, CUDA and OpenCL<br>
-🚀 Let's Connect: [Linkedin](https://www.linkedin.com/in/afonso-diela/) 
+---
+### In a Nutshell 
+- 📍 Paris, France <br>
+- ⚙️ Working on **AI models optimization and deployment** on **resource-constrained devices** for **real-world applications**.<br>
+- 🔭 Interests: AI Efficiency, Hardware-aware Optimization, MLC, Kernels, Runtimes, Cultural-AI, Ultrarunner⚡.<br>
+- 🌱 Currently learning: Rust, CUDA and OpenCL<br>
+- 🚀 Let's Connect: [Linkedin](https://www.linkedin.com/in/afonso-diela/) 
 
 > **“Science can amuse and fascinate us all, but it is engineering that changes the world.” ~ Isaac Asimov**
+
+---
 
 ### Current Projects
 - [diesimo-lab](https://github.com/diesimo-ai/diesimo-lab): An Open Research Lab for Edge Intelligence and Efficiency.
@@ -40,4 +45,5 @@
 - [computer-vision-challenge](https://github.com/afondiel/computer-vision-challenge): A hands-on collection of computer vision projects for everyone.
 - [computer-audition-challenge](#): A hands-on collection of computer audition projects for everyone.
 
-
+### Latest Blog Posts
+- [Edge AI Blog Library](https://afondiel.github.io/posts/)
