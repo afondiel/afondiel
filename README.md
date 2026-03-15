@@ -45,5 +45,9 @@
 - [computer-vision-challenge](https://github.com/afondiel/computer-vision-challenge): A hands-on collection of computer vision projects for everyone.
 - [computer-audition-challenge](#): A hands-on collection of computer audition projects for everyone.
 
+### MISC
+- [AI Efficiency Metrics Cheatsheet](https://github.com/afondiel/ai-efficiency-metrics): Quick-reference guide covering memory, computation, performance, energy, and cost metrics for AI Systems.
+- [AI Performance Engineering Cheatsheet](https://github.com/afondiel/ai-performance-engineering): AI Performance Engineering Cheatsheet: From Cloud to Edge.
+
 ### Latest Blog Posts
 - [Edge AI Blog Library](https://afondiel.github.io/posts/)
