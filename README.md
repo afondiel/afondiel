@@ -46,7 +46,7 @@
 - [computer-audition-challenge](#): A hands-on collection of computer audition projects for everyone.
 
 ### MISC
-- [AI Efficiency Metrics Cheatsheet](https://github.com/afondiel/ai-efficiency-metrics): Quick-reference guide covering memory, computation, performance, energy, and cost metrics for AI Systems.
+- [AI Efficiency Metrics Cheatsheet](https://github.com/afondiel/ai-efficiency-metrics): Quick-reference guide on Efficient Computing & metrics for AI Systems.
 - [AI Performance Engineering Cheatsheet](https://github.com/afondiel/ai-performance-engineering): AI Performance Engineering Cheatsheet: From Cloud to Edge.
 
 ### Latest Blog Posts
