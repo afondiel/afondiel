@@ -36,7 +36,7 @@
 - [TinyC](https://github.com/diesimo-ai/TinyC): A lightweight Compiler with LLVM backend.
 - [TinyI](https://github.com/diesimo-ai/TinyI): A lightweight Python Interpreter.
 - [TinyMLC](https://github.com/diesimo-ai/TinyMLC): A lightweight ML Compiler.
-- [edge-ai-engineering](https://github.com/afondiel/edge-ai-engineering): An open and practical guide to Edge AI Engineering.
+- [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): An open and practical guide to Edge AI Engineering.
 - [Edge AI End-to-End MLOps Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/mlops): Edge AI End-to-End MLOps Stack.
 - [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment): Edge AI Deployment Stack.
 - [Edge AI Optimization Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/optimization): Edge AI Optimization Stack.
