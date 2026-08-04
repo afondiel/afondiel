@@ -44,9 +44,11 @@
 - [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo): A list of production-ready models for resource-constrained devices.
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms): A curated list of resource-constrained platforms for efficient and local AI developments.
 - [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Benchmarking): A practical workflow and resources for Edge AI benchmarking and profiling.
-- [computer-science-notebook](https://github.com/afondiel/computer-science-notebook): A knowledge base bridging theorical with real-world applications.
 - [computer-vision-challenge](https://github.com/afondiel/computer-vision-challenge): A hands-on collection of computer vision projects for everyone.
 - [computer-audition-challenge](#): A hands-on collection of computer audition projects for everyone.
+
+### My Research Knowledge Base
+- [computer-science-notebook](https://github.com/afondiel/computer-science-notebook): An Open Knowledge Base bridging theorical CS with real-world industry applications.
 
 ### MISC
 - [AI Efficiency Metrics Cheatsheet](https://github.com/afondiel/ai-efficiency-metrics): Quick-reference guide on Efficient Computing & metrics for AI Systems.
