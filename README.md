@@ -23,11 +23,11 @@
 
 ### Current Projects
 - [diesimo-lab](https://github.com/diesimo-ai/diesimo-lab): An Open Research Lab for Edge Intelligence and Efficiency.
-- [edge-audio](https://github.com/diesimo-ai/edge-audio): An open and practical guide to Edge Audio.
+- [edge-time-series](https://github.com/diesimo-ai/edge-time-series): An open and practical guide to Edge Time Series.
 - [edge-language](https://github.com/diesimo-ai/edge-language): An open and practical guide to Edge Language.
+- [edge-audio](https://github.com/diesimo-ai/edge-audio): An open and practical guide to Edge Audio.
 - [edge-vision](https://github.com/diesimo-ai/edge-vision): An open and practical guide to Edge Vision.
 - [edge-multimodal](https://github.com/diesimo-ai/edge-multimodal): An open and practical guide to Edge Multimodal.
-- [edge-time-series](https://github.com/diesimo-ai/edge-time-series): An open and practical guide to Edge Time Series.
 - [edge-agents](https://github.com/diesimo-ai/edge-agents): An open and practical guide to Edge Agents.
 - [TinyP](https://github.com/diesimo-ai/TinyP): A lightweight pruning module for PyTorch models.
 - [TinyQ](https://github.com/diesimo-ai/TinyQ): A lightweight quantization module for PyTorch models.
@@ -48,7 +48,7 @@
 - [computer-audition-challenge](#): A hands-on collection of computer audition projects for everyone.
 
 ### My Research Knowledge Base
-- [computer-science-notebook](https://github.com/afondiel/computer-science-notebook): An Open Knowledge Base bridging theorical CS with real-world industry applications.
+- [computer-science-notebook](https://github.com/afondiel/computer-science-notebook): An Open Knowledge Base linking theoretical Computer Science to industry.
 
 ### MISC
 - [AI Efficiency Metrics Cheatsheet](https://github.com/afondiel/ai-efficiency-metrics): Quick-reference guide on Efficient Computing & metrics for AI Systems.
