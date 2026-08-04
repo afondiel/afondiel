@@ -29,10 +29,13 @@
 - [edge-multimodal](https://github.com/diesimo-ai/edge-multimodal): An open and practical guide to Edge Multimodal.
 - [edge-time-series](https://github.com/diesimo-ai/edge-time-series): An open and practical guide to Edge Time Series.
 - [edge-agents](https://github.com/diesimo-ai/edge-agents): An open and practical guide to Edge Agents.
-- [TinyQ](https://github.com/diesimo-ai/TinyQ): A lightweight quantization module for PyTorch models.
 - [TinyP](https://github.com/diesimo-ai/TinyP): A lightweight pruning module for PyTorch models.
+- [TinyQ](https://github.com/diesimo-ai/TinyQ): A lightweight quantization module for PyTorch models.
+- [TinyD](https://github.com/diesimo-ai/TinyD): A lightweight distillation module for PyTorch models.
+- [TinyN](https://github.com/diesimo-ai/TinyN): A lightweight NAS module for deep learning models.
 - [TinyC](https://github.com/diesimo-ai/TinyC): A lightweight Compiler with LLVM backend.
 - [TinyI](https://github.com/diesimo-ai/TinyI): A lightweight Python Interpreter.
+- [TinyMLC](https://github.com/diesimo-ai/TinyMLC): A lightweight ML Compiler.
 - [edge-ai-engineering](https://github.com/afondiel/edge-ai-engineering): An open and practical guide to Edge AI Engineering.
 - [Edge AI End-to-End MLOps Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/mlops): Edge AI End-to-End MLOps Stack.
 - [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment): Edge AI Deployment Stack.
